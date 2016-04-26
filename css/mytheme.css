@@ -1,0 +1,14 @@
+body {
+    background-image: url("/images/footer_lodyas.png");
+    background-repeat: repeat;
+}
+
+h1 {
+    color:lightgrey;
+}
+
+footer {
+    text-align: left;
+    background: #424242;
+    color: grey;
+}
