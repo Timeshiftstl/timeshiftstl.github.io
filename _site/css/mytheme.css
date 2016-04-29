@@ -1,14 +1,47 @@
 body {
-    background-image: url("/images/footer_lodyas.png");
-    background-repeat: repeat;
+    background: #FFB74D
 }
 
-h1 {
-    color:lightgrey;
+#nav-stuff {
+  margin: auto;
+}
+#mynavbar {
+  margin-top: 10px;
 }
 
-footer {
+.jumbotron {
+  border-radius: 5px;
+  background-color:#FF8F00;
+}
+.panel-grey .panel-heading {
+  color:black;
+  background-color:#8BC34A;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+footer{
     text-align: left;
-    background: #424242;
-    color: grey;
 }
+
+#footer-text {
+    font-size: 1em;
+}
+
+
+
+hr {
+  border-color:black;
+}
+
+.img-menu {
+  border: 2px solid black;
+}
+
+.website-content{
+}
+
+
+
