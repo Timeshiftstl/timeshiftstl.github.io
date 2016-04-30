@@ -22,12 +22,15 @@ p {
     font-size: 1.25em;
 }
 
-footer{
-    text-align: left;
+#footer-text, #footer-back-text{
+    font-size: 1em;
 }
 
 #footer-text {
-    font-size: 1em;
+    text-align:left;
+}
+#footer-back-text{
+    text-align:right;
 }
 
 
