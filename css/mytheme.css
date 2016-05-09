@@ -33,8 +33,6 @@ p {
     text-align:right;
 }
 
-
-
 hr {
   border-color:black;
 }
@@ -43,8 +41,11 @@ hr {
   border: 2px solid black;
 }
 
-.website-content{
+#btn-download {
+    background-color: #7E57C2;
+    color:white;
+    margin: 1em;
+    border: 2px solid black;
 }
-
 
 
